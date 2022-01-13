@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Pagina 3 - Prueba RSS</title>
+  </head>
+  <body>
+    <h1>Pagina 3 de prueba para RSS</h1>
+    <h2>¿Se actualizan los contenidos de los feed?</h2>
+  </body>
+</html>
