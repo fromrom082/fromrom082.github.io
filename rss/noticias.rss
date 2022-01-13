@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>fromrom-RSS</title>
+    <link>https://fromrom082.github.io</link>
+    <description>Tema 3. Practica 2.</description>
+    <language>es</language>
+    <copyright>Fran Romero</copyright>
+    <item>
+      <title>Cómo hacer una página web con HTML</title>
+      <pubDate>Thu, 13 Jan 2022 22:18:08 +0100</pubDate>
+      <link>https://fromrom082.github.io/paginas/p2.html</link>
+      <description><![CDATA[Ejemplo de web sencilla.]]></description>
+    </item>
+    <item>
+      <title>Consejos para hacer páginas web bien</title>
+      <pubDate>Thu, 13 Jan 2022 22:15:46 +0100</pubDate>
+      <link>https://fromrom082.github.io/paginas/p1.html</link>
+      <description><![CDATA[Algunos consejos acerca del diseño...]]></description>
+    </item>
+  </channel>
+</rss>
