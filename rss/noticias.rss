@@ -8,6 +8,12 @@
     <language>es</language>
     <copyright>Fran Romero</copyright>
     <item>
+      <title>Pagina 3 de prueba para RSS</title>
+      <pubDate>Thu, 13 Jan 2022 22:38:04 +0100</pubDate>
+      <link>https://fromrom082.github.io/paginas/p3.html</link>
+      <description><![CDATA[Prueba RSS]]></description>
+    </item>
+    <item>
       <title>Cómo hacer una página web con HTML</title>
       <pubDate>Thu, 13 Jan 2022 22:18:08 +0100</pubDate>
       <link>https://fromrom082.github.io/paginas/p2.html</link>
